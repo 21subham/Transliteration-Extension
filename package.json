@@ -1,9 +1,9 @@
 {
-  "name": "nepali-transliteration",
-  "displayName": "Nepali transliteration",
+  "name": "transliteration-extension",
+  "displayName": "Transliteration extension",
   "version": "0.0.1",
-  "description": "A translation for Unicode Roman to Nepali devnagari transliteration app",
-  "author": "Subham Rajbhandari",
+  "description": "Transliteration extension",
+  "author": "Subham",
   "scripts": {
     "dev": "plasmo dev",
     "build": "plasmo build",
